@@ -7,6 +7,7 @@ A sleek and minimal web app to calculate **Simple Interest** using the standard 
 ## 🧮 Formula Used
 
 Simple Interest = (Principal × Rate × Time) / 100
+.
 ---
 
 ## 🔧 Features
