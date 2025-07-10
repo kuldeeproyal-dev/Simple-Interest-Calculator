@@ -7,17 +7,6 @@ A sleek and minimal web app to calculate **Simple Interest** using the standard 
 ## 🧮 Formula Used
 
 Simple Interest = (Principal × Rate × Time) / 100
-
-yaml
-Copy
-Edit
-
----
-
-## 📸 Screenshot
-
-![Screenshot](screenshot.png)
-
 ---
 
 ## 🔧 Features
@@ -33,15 +22,10 @@ Edit
 
 Simple-Interest-Calculator/
 │
-├── index.html # Main HTML file with structure
-├── style.css # CSS styling for the calculator
-├── script.js # JavaScript logic for calculation
-├── screenshot.png # Screenshot of the calculator (optional)
-└── README.md # This README file
-
-yaml
-Copy
-Edit
+├── index.html 
+├── style.css 
+├── script.js 
+└── README.md 
 
 ---
 
@@ -55,12 +39,10 @@ Edit
    git clone https://github.com/kuldeeproyal-dev/Simple-Interest-Calculator.git
 Open index.html in your web browser.
 
-🧠 Technologies Used
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
+## 🧠 Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
 ✍️ Author
 Kuladeep Royal
@@ -72,10 +54,8 @@ Kuladeep Royal
 🪪 License
 This project is licensed under the MIT License.
 
-✅ Sample Output (UI Preview)
-less
-Copy
-Edit
+## ✅ Sample Output (UI Preview)
+
 +------------------------------------------+
 |      Simple Interest Calculator          |
 |------------------------------------------|
@@ -87,9 +67,6 @@ Edit
 | [ Compute Interest ]                     |
 +------------------------------------------+
 ⭐ Don't forget to star this repo if it helped you!
-yaml
-Copy
-Edit
 
 ---
 
